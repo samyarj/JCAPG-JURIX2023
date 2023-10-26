@@ -2,7 +2,7 @@
 
 This repository contains the code for the paper:
 
-Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka, Karim Benyekhlef, Extracting Structured Representations from Legislation using Large Language Models. (citation to be updated)
+*Samyar Janatian, Hannes Westermann, Jinzhe Tan, Jaromir Savelka, Karim Benyekhlef, Extracting Structured Representations from Legislation using Large Language Models. (citation to be updated)*
 
 The recommended way to run the code is via Google Colab, available here:
 https://colab.research.google.com/drive/1LHCRvBvlOQTW-0qwK3EUhJx8JqyXQo8s?usp=sharing
